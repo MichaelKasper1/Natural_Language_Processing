@@ -1,4 +1,7 @@
 # Natural_Language_Processing
+
+NOTE: A few models using BERT are currently running. I hope to make commits by 11/1/22 where I explore the pros and cons of BERT architectures. These will be commited under the file name NLP_2
+
 In this Repository, I explore natural language processing techniques. Specifically, I use a variety of vector and transformer embedding techniques and NLP models for text classification.
 
 Natural language processing (NLP) is a large subfield of machine learning. NLP allows data to be extracted from text. This can be implemented to perform tasks such as creating translators, performing sentiment analysis to understand product reviews on large scale, or help guide medical diagnostics.
@@ -9,6 +12,4 @@ If I had more time and unlimited computing power, I would try many models and tu
 
 There are 2 .ipynb files in this repository. NLP_1 contains 2 models. The first of which explores GloVe embedding and classification of text data with a CNN. The second model uses Emedding with TfidfVectorizer and Modeling with Stoichastic Gradient Descent. NLP_BERT contains simple analysis guided by the tensorflow BERT tutorial. I explored a few different architectures to get a better understanding of how they perform on the same IMBD data set. I did end up using slightly different data sets in the 2 notebooks so the results unfortunately are not comparable.
 
-The accuracy of the model 1 is slightly better than model 2, but I changed so many variables between the models that it doesn't really make sense to compare them. Honestly one of the main goals of this project is to make sure I have a good understanding of the different methods, advantages, and disadvantages. I chose to use the data I did because it was already split nicely for modeling. Like I said, the main goal is not to show that I can clean messy data, but to practice and understand the types of NLP models and text embedding strategies.
-
-NOTE: Still exploring different BERT models. I have tried some simple ones and the models take forever to run on my computer! Going to switch to google colab to use their GPUs but I ran out of alloted time. Will upload BERT exploration notebook soon!
+The accuracy of the model 1 is slightly better than model 2, but I changed so many variables between the models that it doesn't really make sense to compare them. Honestly one of the main goals of this project is to make sure I have a good understanding of the different methods, advantages, and disadvantages. I chose to use the data I did because it was already split nicely for modeling. Like I said, the main goal is not to show that I can clean messy data, but to practice and understand the types of NLP models and text embedding strategies
