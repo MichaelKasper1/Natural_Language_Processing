@@ -1,6 +1,6 @@
 # Natural_Language_Processing
 
-NOTE: A few models using BERT are currently running. I hope to make commits by 11/1/22 where I explore the pros and cons of BERT architectures. These will be commited under the file name NLP_2
+NOTE: A few models using BERT are currently running. I hope to make commits by 11/1/22 where I explore the pros and cons of BERT architectures. These will be commited under the file name NLP_BERT
 
 In this Repository, I explore natural language processing techniques. Specifically, I use a variety of vector and transformer embedding techniques and NLP models for text classification.
 
