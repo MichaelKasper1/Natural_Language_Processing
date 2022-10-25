@@ -11,3 +11,4 @@ There are 2 .ipynb files in this repository. NLP_1 contains 2 models. The first 
 
 The accuracy of the model 1 is slightly better than model 2, but I changed so many variables between the models that it doesn't really make sense to compare them. Honestly one of the main goals of this project is to make sure I have a good understanding of the different methods, advantages, and disadvantages. I chose to use the data I did because it was already split nicely for modeling. Like I said, the main goal is not to show that I can clean messy data, but to practice and understand the types of NLP models and text embedding strategies.
 
+NOTE: Still exploring different BERT models. I have tried some simple ones and the models take forever to run on my computer! Going to switch to google colab to use their GPUs but I ran out of alloted time. Will upload BERT exploration notebook soon!
