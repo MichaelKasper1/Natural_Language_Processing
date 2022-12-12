@@ -7,8 +7,6 @@ Besides I add charachter level input [2].
 # References
 - [1] [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
 - [2] [Character-level Convolutional Networks for Text Classification](https://arxiv.org/abs/1509.01626)
-
-@author: Christopher Masch
 """
 
 import tensorflow as tf
